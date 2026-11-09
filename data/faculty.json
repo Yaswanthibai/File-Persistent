@@ -1,0 +1,14 @@
+[
+  {
+    "id": 3,
+    "name": "Dr. Priya Sharma",
+    "department": "ECE",
+    "subject": "Digital Electronics"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Ravi Kumar",
+    "department": "CSE",
+    "subject": "Java"
+  }
+]
